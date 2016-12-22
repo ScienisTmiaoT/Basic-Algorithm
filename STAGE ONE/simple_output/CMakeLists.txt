@@ -3,6 +3,6 @@ project(simple_output)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.c)
+set(SOURCE_FILES open_file.c)
 set(CMAKE_C_FLAGS "-std=c99")
 add_executable(simple_output ${SOURCE_FILES})

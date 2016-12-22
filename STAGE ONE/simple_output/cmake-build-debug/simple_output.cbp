@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/main.c">
+		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/open_file.c">
 			<Option target="simple_output"/>
 		</Unit>
 		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/CMakeLists.txt">

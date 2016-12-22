@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/simple_output.dir/main.c.obj"
+  "CMakeFiles/simple_output.dir/open_file.c.obj"
   "simple_output.pdb"
   "simple_output.exe"
   "simple_output.exe.manifest"

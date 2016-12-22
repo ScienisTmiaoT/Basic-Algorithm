@@ -122,32 +122,32 @@ simple_output/fast:
 	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/build
 .PHONY : simple_output/fast
 
-main.obj: main.c.obj
+open_file.obj: open_file.c.obj
 
-.PHONY : main.obj
+.PHONY : open_file.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/main.c.obj
-.PHONY : main.c.obj
+open_file.c.obj:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/open_file.c.obj
+.PHONY : open_file.c.obj
 
-main.i: main.c.i
+open_file.i: open_file.c.i
 
-.PHONY : main.i
+.PHONY : open_file.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/main.c.i
-.PHONY : main.c.i
+open_file.c.i:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/open_file.c.i
+.PHONY : open_file.c.i
 
-main.s: main.c.s
+open_file.s: open_file.c.s
 
-.PHONY : main.s
+.PHONY : open_file.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/main.c.s
-.PHONY : main.c.s
+open_file.c.s:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/open_file.c.s
+.PHONY : open_file.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... simple_output
 	@echo ... edit_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... open_file.obj
+	@echo ... open_file.i
+	@echo ... open_file.s
 .PHONY : help
 
 
