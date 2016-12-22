@@ -6,6 +6,10 @@
 #define INF 100000000
 int main()
 {
+//    let fin to be stdin and fout to be stdout, then can input from stdin and output to stdout
+//    but don't call fopen
+//    FILE *fin = stdin;
+//    FILE *fout = stdout;
     FILE *fin, *fout;
     fin = fopen("data.in", "rb");
     fout = fopen("data.out", "wb");
