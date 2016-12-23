@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/example-2-6.c
+D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/problem-2-1.c
 stdio.h
+-
+math.h
 -
 

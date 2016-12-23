@@ -56,38 +56,38 @@ include CMakeFiles/simple_output.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/simple_output.dir/flags.make
 
-CMakeFiles/simple_output.dir/example-2-6.c.obj: CMakeFiles/simple_output.dir/flags.make
-CMakeFiles/simple_output.dir/example-2-6.c.obj: ../example-2-6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/simple_output.dir/example-2-6.c.obj"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\simple_output.dir\example-2-6.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\example-2-6.c"
+CMakeFiles/simple_output.dir/problem-2-1.c.obj: CMakeFiles/simple_output.dir/flags.make
+CMakeFiles/simple_output.dir/problem-2-1.c.obj: ../problem-2-1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/simple_output.dir/problem-2-1.c.obj"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\simple_output.dir\problem-2-1.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-1.c"
 
-CMakeFiles/simple_output.dir/example-2-6.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/simple_output.dir/example-2-6.c.i"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\example-2-6.c" > CMakeFiles\simple_output.dir\example-2-6.c.i
+CMakeFiles/simple_output.dir/problem-2-1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/simple_output.dir/problem-2-1.c.i"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-1.c" > CMakeFiles\simple_output.dir\problem-2-1.c.i
 
-CMakeFiles/simple_output.dir/example-2-6.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/simple_output.dir/example-2-6.c.s"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\example-2-6.c" -o CMakeFiles\simple_output.dir\example-2-6.c.s
+CMakeFiles/simple_output.dir/problem-2-1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/simple_output.dir/problem-2-1.c.s"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-1.c" -o CMakeFiles\simple_output.dir\problem-2-1.c.s
 
-CMakeFiles/simple_output.dir/example-2-6.c.obj.requires:
+CMakeFiles/simple_output.dir/problem-2-1.c.obj.requires:
 
-.PHONY : CMakeFiles/simple_output.dir/example-2-6.c.obj.requires
+.PHONY : CMakeFiles/simple_output.dir/problem-2-1.c.obj.requires
 
-CMakeFiles/simple_output.dir/example-2-6.c.obj.provides: CMakeFiles/simple_output.dir/example-2-6.c.obj.requires
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/example-2-6.c.obj.provides.build
-.PHONY : CMakeFiles/simple_output.dir/example-2-6.c.obj.provides
+CMakeFiles/simple_output.dir/problem-2-1.c.obj.provides: CMakeFiles/simple_output.dir/problem-2-1.c.obj.requires
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-1.c.obj.provides.build
+.PHONY : CMakeFiles/simple_output.dir/problem-2-1.c.obj.provides
 
-CMakeFiles/simple_output.dir/example-2-6.c.obj.provides.build: CMakeFiles/simple_output.dir/example-2-6.c.obj
+CMakeFiles/simple_output.dir/problem-2-1.c.obj.provides.build: CMakeFiles/simple_output.dir/problem-2-1.c.obj
 
 
 # Object files for target simple_output
 simple_output_OBJECTS = \
-"CMakeFiles/simple_output.dir/example-2-6.c.obj"
+"CMakeFiles/simple_output.dir/problem-2-1.c.obj"
 
 # External object files for target simple_output
 simple_output_EXTERNAL_OBJECTS =
 
-simple_output.exe: CMakeFiles/simple_output.dir/example-2-6.c.obj
+simple_output.exe: CMakeFiles/simple_output.dir/problem-2-1.c.obj
 simple_output.exe: CMakeFiles/simple_output.dir/build.make
 simple_output.exe: CMakeFiles/simple_output.dir/linklibs.rsp
 simple_output.exe: CMakeFiles/simple_output.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/simple_output.dir/build: simple_output.exe
 
 .PHONY : CMakeFiles/simple_output.dir/build
 
-CMakeFiles/simple_output.dir/requires: CMakeFiles/simple_output.dir/example-2-6.c.obj.requires
+CMakeFiles/simple_output.dir/requires: CMakeFiles/simple_output.dir/problem-2-1.c.obj.requires
 
 .PHONY : CMakeFiles/simple_output.dir/requires
 
