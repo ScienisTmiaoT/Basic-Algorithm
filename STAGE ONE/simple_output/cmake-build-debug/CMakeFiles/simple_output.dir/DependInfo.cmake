@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/open_file.c" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/cmake-build-debug/CMakeFiles/simple_output.dir/open_file.c.obj"
+  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/example-2-6.c" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/cmake-build-debug/CMakeFiles/simple_output.dir/example-2-6.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
