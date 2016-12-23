@@ -56,43 +56,43 @@ include CMakeFiles/simple_output.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/simple_output.dir/flags.make
 
-CMakeFiles/simple_output.dir/problem-2-6.c.obj: CMakeFiles/simple_output.dir/flags.make
-CMakeFiles/simple_output.dir/problem-2-6.c.obj: ../problem-2-6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/simple_output.dir/problem-2-6.c.obj"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\simple_output.dir\problem-2-6.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-6.c"
+CMakeFiles/simple_output.dir/think-2.cpp.obj: CMakeFiles/simple_output.dir/flags.make
+CMakeFiles/simple_output.dir/think-2.cpp.obj: ../think-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/simple_output.dir/think-2.cpp.obj"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\simple_output.dir\think-2.cpp.obj -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\think-2.cpp"
 
-CMakeFiles/simple_output.dir/problem-2-6.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/simple_output.dir/problem-2-6.c.i"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-6.c" > CMakeFiles\simple_output.dir\problem-2-6.c.i
+CMakeFiles/simple_output.dir/think-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/simple_output.dir/think-2.cpp.i"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\think-2.cpp" > CMakeFiles\simple_output.dir\think-2.cpp.i
 
-CMakeFiles/simple_output.dir/problem-2-6.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/simple_output.dir/problem-2-6.c.s"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\problem-2-6.c" -o CMakeFiles\simple_output.dir\problem-2-6.c.s
+CMakeFiles/simple_output.dir/think-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/simple_output.dir/think-2.cpp.s"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\think-2.cpp" -o CMakeFiles\simple_output.dir\think-2.cpp.s
 
-CMakeFiles/simple_output.dir/problem-2-6.c.obj.requires:
+CMakeFiles/simple_output.dir/think-2.cpp.obj.requires:
 
-.PHONY : CMakeFiles/simple_output.dir/problem-2-6.c.obj.requires
+.PHONY : CMakeFiles/simple_output.dir/think-2.cpp.obj.requires
 
-CMakeFiles/simple_output.dir/problem-2-6.c.obj.provides: CMakeFiles/simple_output.dir/problem-2-6.c.obj.requires
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-6.c.obj.provides.build
-.PHONY : CMakeFiles/simple_output.dir/problem-2-6.c.obj.provides
+CMakeFiles/simple_output.dir/think-2.cpp.obj.provides: CMakeFiles/simple_output.dir/think-2.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/think-2.cpp.obj.provides.build
+.PHONY : CMakeFiles/simple_output.dir/think-2.cpp.obj.provides
 
-CMakeFiles/simple_output.dir/problem-2-6.c.obj.provides.build: CMakeFiles/simple_output.dir/problem-2-6.c.obj
+CMakeFiles/simple_output.dir/think-2.cpp.obj.provides.build: CMakeFiles/simple_output.dir/think-2.cpp.obj
 
 
 # Object files for target simple_output
 simple_output_OBJECTS = \
-"CMakeFiles/simple_output.dir/problem-2-6.c.obj"
+"CMakeFiles/simple_output.dir/think-2.cpp.obj"
 
 # External object files for target simple_output
 simple_output_EXTERNAL_OBJECTS =
 
-simple_output.exe: CMakeFiles/simple_output.dir/problem-2-6.c.obj
+simple_output.exe: CMakeFiles/simple_output.dir/think-2.cpp.obj
 simple_output.exe: CMakeFiles/simple_output.dir/build.make
 simple_output.exe: CMakeFiles/simple_output.dir/linklibs.rsp
 simple_output.exe: CMakeFiles/simple_output.dir/objects1.rsp
 simple_output.exe: CMakeFiles/simple_output.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable simple_output.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\simple_output\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable simple_output.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\simple_output.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,7 +100,7 @@ CMakeFiles/simple_output.dir/build: simple_output.exe
 
 .PHONY : CMakeFiles/simple_output.dir/build
 
-CMakeFiles/simple_output.dir/requires: CMakeFiles/simple_output.dir/problem-2-6.c.obj.requires
+CMakeFiles/simple_output.dir/requires: CMakeFiles/simple_output.dir/think-2.cpp.obj.requires
 
 .PHONY : CMakeFiles/simple_output.dir/requires
 

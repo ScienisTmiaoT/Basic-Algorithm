@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/simple_output.dir/problem-2-6.c.obj"
+  "CMakeFiles/simple_output.dir/think-2.cpp.obj"
   "simple_output.pdb"
   "simple_output.exe"
   "simple_output.exe.manifest"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C)
+foreach(lang CXX)
   include(CMakeFiles/simple_output.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

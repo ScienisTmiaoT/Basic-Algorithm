@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
+  "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/problem-2-6.c" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/cmake-build-debug/CMakeFiles/simple_output.dir/problem-2-6.c.obj"
+set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/think-2.cpp" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/simple_output/cmake-build-debug/CMakeFiles/simple_output.dir/think-2.cpp.obj"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.
