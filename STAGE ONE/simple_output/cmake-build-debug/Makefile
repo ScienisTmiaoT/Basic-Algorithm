@@ -122,32 +122,32 @@ simple_output/fast:
 	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/build
 .PHONY : simple_output/fast
 
-problem-2-5.obj: problem-2-5.c.obj
+problem-2-6.obj: problem-2-6.c.obj
 
-.PHONY : problem-2-5.obj
+.PHONY : problem-2-6.obj
 
 # target to build an object file
-problem-2-5.c.obj:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-5.c.obj
-.PHONY : problem-2-5.c.obj
+problem-2-6.c.obj:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-6.c.obj
+.PHONY : problem-2-6.c.obj
 
-problem-2-5.i: problem-2-5.c.i
+problem-2-6.i: problem-2-6.c.i
 
-.PHONY : problem-2-5.i
+.PHONY : problem-2-6.i
 
 # target to preprocess a source file
-problem-2-5.c.i:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-5.c.i
-.PHONY : problem-2-5.c.i
+problem-2-6.c.i:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-6.c.i
+.PHONY : problem-2-6.c.i
 
-problem-2-5.s: problem-2-5.c.s
+problem-2-6.s: problem-2-6.c.s
 
-.PHONY : problem-2-5.s
+.PHONY : problem-2-6.s
 
 # target to generate assembly for a file
-problem-2-5.c.s:
-	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-5.c.s
-.PHONY : problem-2-5.c.s
+problem-2-6.c.s:
+	$(MAKE) -f CMakeFiles\simple_output.dir\build.make CMakeFiles/simple_output.dir/problem-2-6.c.s
+.PHONY : problem-2-6.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... simple_output
 	@echo ... edit_cache
-	@echo ... problem-2-5.obj
-	@echo ... problem-2-5.i
-	@echo ... problem-2-5.s
+	@echo ... problem-2-6.obj
+	@echo ... problem-2-6.i
+	@echo ... problem-2-6.s
 .PHONY : help
 
 
