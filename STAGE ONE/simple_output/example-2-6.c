@@ -20,6 +20,7 @@ int main()
         int min = INF;
         int max = -INF;
         int sum = 0;
+        //to suit the rule
         if(a == 0)
             break;
         else
