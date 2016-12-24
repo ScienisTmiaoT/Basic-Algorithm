@@ -122,32 +122,32 @@ chapter3/fast:
 	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/build
 .PHONY : chapter3/fast
 
-example-1.obj: example-1.c.obj
+snake-form-number.obj: snake-form-number.c.obj
 
-.PHONY : example-1.obj
+.PHONY : snake-form-number.obj
 
 # target to build an object file
-example-1.c.obj:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-1.c.obj
-.PHONY : example-1.c.obj
+snake-form-number.c.obj:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.obj
+.PHONY : snake-form-number.c.obj
 
-example-1.i: example-1.c.i
+snake-form-number.i: snake-form-number.c.i
 
-.PHONY : example-1.i
+.PHONY : snake-form-number.i
 
 # target to preprocess a source file
-example-1.c.i:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-1.c.i
-.PHONY : example-1.c.i
+snake-form-number.c.i:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.i
+.PHONY : snake-form-number.c.i
 
-example-1.s: example-1.c.s
+snake-form-number.s: snake-form-number.c.s
 
-.PHONY : example-1.s
+.PHONY : snake-form-number.s
 
 # target to generate assembly for a file
-example-1.c.s:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-1.c.s
-.PHONY : example-1.c.s
+snake-form-number.c.s:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.s
+.PHONY : snake-form-number.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... chapter3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... example-1.obj
-	@echo ... example-1.i
-	@echo ... example-1.s
+	@echo ... snake-form-number.obj
+	@echo ... snake-form-number.i
+	@echo ... snake-form-number.s
 .PHONY : help
 
 

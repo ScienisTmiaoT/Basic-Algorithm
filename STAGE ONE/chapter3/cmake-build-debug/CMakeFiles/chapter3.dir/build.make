@@ -56,38 +56,38 @@ include CMakeFiles/chapter3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/chapter3.dir/flags.make
 
-CMakeFiles/chapter3.dir/example-1.c.obj: CMakeFiles/chapter3.dir/flags.make
-CMakeFiles/chapter3.dir/example-1.c.obj: ../example-1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter3.dir/example-1.c.obj"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\chapter3.dir\example-1.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-1.c"
+CMakeFiles/chapter3.dir/snake-form-number.c.obj: CMakeFiles/chapter3.dir/flags.make
+CMakeFiles/chapter3.dir/snake-form-number.c.obj: ../snake-form-number.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter3.dir/snake-form-number.c.obj"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\chapter3.dir\snake-form-number.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\snake-form-number.c"
 
-CMakeFiles/chapter3.dir/example-1.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter3.dir/example-1.c.i"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-1.c" > CMakeFiles\chapter3.dir\example-1.c.i
+CMakeFiles/chapter3.dir/snake-form-number.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter3.dir/snake-form-number.c.i"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\snake-form-number.c" > CMakeFiles\chapter3.dir\snake-form-number.c.i
 
-CMakeFiles/chapter3.dir/example-1.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter3.dir/example-1.c.s"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-1.c" -o CMakeFiles\chapter3.dir\example-1.c.s
+CMakeFiles/chapter3.dir/snake-form-number.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter3.dir/snake-form-number.c.s"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\snake-form-number.c" -o CMakeFiles\chapter3.dir\snake-form-number.c.s
 
-CMakeFiles/chapter3.dir/example-1.c.obj.requires:
+CMakeFiles/chapter3.dir/snake-form-number.c.obj.requires:
 
-.PHONY : CMakeFiles/chapter3.dir/example-1.c.obj.requires
+.PHONY : CMakeFiles/chapter3.dir/snake-form-number.c.obj.requires
 
-CMakeFiles/chapter3.dir/example-1.c.obj.provides: CMakeFiles/chapter3.dir/example-1.c.obj.requires
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-1.c.obj.provides.build
-.PHONY : CMakeFiles/chapter3.dir/example-1.c.obj.provides
+CMakeFiles/chapter3.dir/snake-form-number.c.obj.provides: CMakeFiles/chapter3.dir/snake-form-number.c.obj.requires
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.obj.provides.build
+.PHONY : CMakeFiles/chapter3.dir/snake-form-number.c.obj.provides
 
-CMakeFiles/chapter3.dir/example-1.c.obj.provides.build: CMakeFiles/chapter3.dir/example-1.c.obj
+CMakeFiles/chapter3.dir/snake-form-number.c.obj.provides.build: CMakeFiles/chapter3.dir/snake-form-number.c.obj
 
 
 # Object files for target chapter3
 chapter3_OBJECTS = \
-"CMakeFiles/chapter3.dir/example-1.c.obj"
+"CMakeFiles/chapter3.dir/snake-form-number.c.obj"
 
 # External object files for target chapter3
 chapter3_EXTERNAL_OBJECTS =
 
-chapter3.exe: CMakeFiles/chapter3.dir/example-1.c.obj
+chapter3.exe: CMakeFiles/chapter3.dir/snake-form-number.c.obj
 chapter3.exe: CMakeFiles/chapter3.dir/build.make
 chapter3.exe: CMakeFiles/chapter3.dir/linklibs.rsp
 chapter3.exe: CMakeFiles/chapter3.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/chapter3.dir/build: chapter3.exe
 
 .PHONY : CMakeFiles/chapter3.dir/build
 
-CMakeFiles/chapter3.dir/requires: CMakeFiles/chapter3.dir/example-1.c.obj.requires
+CMakeFiles/chapter3.dir/requires: CMakeFiles/chapter3.dir/snake-form-number.c.obj.requires
 
 .PHONY : CMakeFiles/chapter3.dir/requires
 

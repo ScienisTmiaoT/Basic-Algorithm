@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/example-1.c
+D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/snake-form-number.c
 stdio.h
+-
+string.h
 -
 
