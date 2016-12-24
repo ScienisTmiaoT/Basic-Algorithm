@@ -12,70 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ee5f2f-635e-4fe8-b367-2307d19e86b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/objects.a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chapter2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../chapter2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jscs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeCCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeCXXCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeDetermineCompilerABI_C.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeRCCompiler.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CMakeSystem.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdC/a.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.2/CompilerIdCXX/a.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/clock.c.obj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/linklibs.rsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/objects.a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/redirection.c.obj" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/simple_output.iml" afterPath="$PROJECT_DIR$/../chapter2/.idea/simple_output.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../chapter2/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../chapter2/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/../chapter2/CMakeLists.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/clock.c" afterPath="$PROJECT_DIR$/../chapter2/clock.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeCache.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/cmake.check_cache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/C.includecache" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/C.includecache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/DependInfo.cmake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/build.make" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/build.make" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/cmake_clean.cmake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/depend.internal" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/depend.internal" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/depend.make" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/depend.make" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/flags.make" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/flags.make" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/link.txt" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/link.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/objects1.rsp" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/objects1.rsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/simple_output.dir/progress.make" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/CMakeFiles/simple_output.dir/progress.make" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/Makefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/cmake_install.cmake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/data.in" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/data.in" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/data.out" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/data.out" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/simple_output.cbp" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/simple_output.cbp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cmake-build-debug/simple_output.exe" afterPath="$PROJECT_DIR$/../chapter2/cmake-build-debug/simple_output.exe" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/example-2-6.c" afterPath="$PROJECT_DIR$/../chapter2/example-2-6.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/open_file.c" afterPath="$PROJECT_DIR$/../chapter2/open_file.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-1.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-1.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-2.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-2.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-3.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-3.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-4.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-4.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-5.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-5.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/problem-2-6.c" afterPath="$PROJECT_DIR$/../chapter2/problem-2-6.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/redirection.c" afterPath="$PROJECT_DIR$/../chapter2/redirection.c" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/think-2.cpp" afterPath="$PROJECT_DIR$/../chapter2/think-2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -384,7 +321,7 @@
       <workItem from="1482476642227" duration="1165000" />
       <workItem from="1482477979758" duration="9654000" />
       <workItem from="1482499045114" duration="2040000" />
-      <workItem from="1482546001232" duration="122000" />
+      <workItem from="1482546001232" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1482478104690</created>
@@ -442,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482499289268</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refractor">
+      <created>1482546143236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1482546143236</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18227000" />
+    <option name="totallyTimeSpent" value="18431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,7 +440,8 @@
     <MESSAGE value="decimal" />
     <MESSAGE value="permutation" />
     <MESSAGE value="think-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="think-2" />
+    <MESSAGE value="refractor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -851,6 +796,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
