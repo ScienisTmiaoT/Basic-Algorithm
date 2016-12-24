@@ -11,39 +11,30 @@ int arr[MAXSIZE][MAXSIZE];
 int main()
 {
     int n;
-    int i = 0;
-    int j = 0;
     int num = 1;
     scanf("%d", &n);
     int s = n * n;
-    int x = n;
-    int y = 1;
+    int i = 1;
+    int j = n;
     memset(arr, 0, sizeof(arr));
     while (num <= s)
     {
-        i = 1;
-        j = x;
-        for(; i <= n; i++)
-            if(arr[i][j] == 0)
-                arr[i][j] = num++;
-        i = x;
-        j = n;
-        for(; j >= 1; j--)
-            if(arr[i][j] == 0)
-                arr[i][j] = num++;
-        i = n;
-        j = y;
-        for(; i >= 1; i--)
-            if(arr[i][j] == 0)
-                arr[i][j] = num++;
-        i = y;
-        j = 1;
-        for(; j <= n; j++)
-            if(arr[i][j] == 0)
-                arr[i][j] = num++;
-
-        x--;
-        y++;
+        for(; (i <= n) && (arr[i][j] == 0); i++)
+            arr[i][j] = num++;
+        i--;
+        j--;
+        for(; (j >= 1) && (arr[i][j] == 0); j--)
+            arr[i][j] = num++;
+        i--;
+        j++;
+        for(; (i >= 1) && (arr[i][j] == 0); i--)
+            arr[i][j] = num++;
+        i++;
+        j++;
+        for(; (j <= n) && (arr[i][j] == 0); j++)
+            arr[i][j] = num++;
+        i++;
+        j--;
     }
     for(int k = 1; k <= n; k++)
     {

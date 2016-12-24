@@ -12,22 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95ad472e-c887-4cfe-8135-3ff462737ee7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/snake-form-number.c" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/example-1.c.obj" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/objects.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/chapter3.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/chapter3.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/C.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/objects1.rsp" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/objects1.rsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/chapter3.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/chapter3.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example-1.c" afterPath="$PROJECT_DIR$/example-1.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snake-form-number.c" afterPath="$PROJECT_DIR$/snake-form-number.c" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +55,8 @@
       <file leaf-file-name="snake-form-number.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snake-form-number.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+            <state relative-caret-position="313">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="e#43#61#0" expanded="true" />
               </folding>
@@ -331,7 +319,7 @@
       <option name="presentableId" value="Default" />
       <updated>1482546327027</updated>
       <workItem from="1482546328725" duration="1841000" />
-      <workItem from="1482549036734" duration="3467000" />
+      <workItem from="1482549036734" duration="5876000" />
     </task>
     <task id="LOCAL-00001" summary="program 3-2 open-light problem">
       <created>1482548216849</created>
@@ -340,11 +328,18 @@
       <option name="project" value="LOCAL" />
       <updated>1482548216849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="program 3-3 snake-form-number">
+      <created>1482552554696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1482552554696</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5308000" />
+    <option name="totallyTimeSpent" value="7717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
@@ -378,7 +373,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="program 3-2 open-light problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="program 3-2 open-light problem" />
+    <MESSAGE value="program 3-3 snake-form-number" />
+    <option name="LAST_COMMIT_MESSAGE" value="program 3-3 snake-form-number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -424,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snake-form-number.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        <state relative-caret-position="313">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
             <element signature="e#43#61#0" expanded="true" />
           </folding>
