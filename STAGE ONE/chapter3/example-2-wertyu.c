@@ -2,7 +2,7 @@
 // Created by Marvin on 2016/12/28.
 //
 
-#include "stdio.h"
+#include <stdio.h>
 
 char ref[] = {'A', 'V', 'X', 'S', 'W', 'D', 'F', 'G', 'U', 'H', 'J',
                 'K', 'N', 'B', 'I', 'O', 'Q', 'E', 'A', 'R', 'Y', 'C',
