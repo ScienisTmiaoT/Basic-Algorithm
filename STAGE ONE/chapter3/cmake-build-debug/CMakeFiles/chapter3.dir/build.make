@@ -56,43 +56,43 @@ include CMakeFiles/chapter3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/chapter3.dir/flags.make
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.obj: CMakeFiles/chapter3.dir/flags.make
-CMakeFiles/chapter3.dir/example-2-wertyu.c.obj: ../example-2-wertyu.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter3.dir/example-2-wertyu.c.obj"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\chapter3.dir\example-2-wertyu.c.obj   -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-2-wertyu.c"
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj: CMakeFiles/chapter3.dir/flags.make
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj: ../example-3-palindromes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\chapter3.dir\example-3-palindromes.cpp.obj -c "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-3-palindromes.cpp"
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter3.dir/example-2-wertyu.c.i"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-2-wertyu.c" > CMakeFiles\chapter3.dir\example-2-wertyu.c.i
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/chapter3.dir/example-3-palindromes.cpp.i"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-3-palindromes.cpp" > CMakeFiles\chapter3.dir\example-3-palindromes.cpp.i
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter3.dir/example-2-wertyu.c.s"
-	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-2-wertyu.c" -o CMakeFiles\chapter3.dir\example-2-wertyu.c.s
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/chapter3.dir/example-3-palindromes.cpp.s"
+	C:\WorkStation\CodeTool\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\example-3-palindromes.cpp" -o CMakeFiles\chapter3.dir\example-3-palindromes.cpp.s
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.requires:
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.requires:
 
-.PHONY : CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.requires
+.PHONY : CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.requires
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.provides: CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.requires
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.provides.build
-.PHONY : CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.provides
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.provides: CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.provides.build
+.PHONY : CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.provides
 
-CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.provides.build: CMakeFiles/chapter3.dir/example-2-wertyu.c.obj
+CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.provides.build: CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj
 
 
 # Object files for target chapter3
 chapter3_OBJECTS = \
-"CMakeFiles/chapter3.dir/example-2-wertyu.c.obj"
+"CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj"
 
 # External object files for target chapter3
 chapter3_EXTERNAL_OBJECTS =
 
-chapter3.exe: CMakeFiles/chapter3.dir/example-2-wertyu.c.obj
+chapter3.exe: CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj
 chapter3.exe: CMakeFiles/chapter3.dir/build.make
 chapter3.exe: CMakeFiles/chapter3.dir/linklibs.rsp
 chapter3.exe: CMakeFiles/chapter3.dir/objects1.rsp
 chapter3.exe: CMakeFiles/chapter3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable chapter3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Marvin\Collection\Git\Github\Basic Algorithm\STAGE ONE\chapter3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable chapter3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\chapter3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,7 +100,7 @@ CMakeFiles/chapter3.dir/build: chapter3.exe
 
 .PHONY : CMakeFiles/chapter3.dir/build
 
-CMakeFiles/chapter3.dir/requires: CMakeFiles/chapter3.dir/example-2-wertyu.c.obj.requires
+CMakeFiles/chapter3.dir/requires: CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj.requires
 
 .PHONY : CMakeFiles/chapter3.dir/requires
 

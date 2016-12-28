@@ -122,32 +122,32 @@ chapter3/fast:
 	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/build
 .PHONY : chapter3/fast
 
-example-2-wertyu.obj: example-2-wertyu.c.obj
+example-3-palindromes.obj: example-3-palindromes.cpp.obj
 
-.PHONY : example-2-wertyu.obj
+.PHONY : example-3-palindromes.obj
 
 # target to build an object file
-example-2-wertyu.c.obj:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.obj
-.PHONY : example-2-wertyu.c.obj
+example-3-palindromes.cpp.obj:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj
+.PHONY : example-3-palindromes.cpp.obj
 
-example-2-wertyu.i: example-2-wertyu.c.i
+example-3-palindromes.i: example-3-palindromes.cpp.i
 
-.PHONY : example-2-wertyu.i
+.PHONY : example-3-palindromes.i
 
 # target to preprocess a source file
-example-2-wertyu.c.i:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.i
-.PHONY : example-2-wertyu.c.i
+example-3-palindromes.cpp.i:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-3-palindromes.cpp.i
+.PHONY : example-3-palindromes.cpp.i
 
-example-2-wertyu.s: example-2-wertyu.c.s
+example-3-palindromes.s: example-3-palindromes.cpp.s
 
-.PHONY : example-2-wertyu.s
+.PHONY : example-3-palindromes.s
 
 # target to generate assembly for a file
-example-2-wertyu.c.s:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.s
-.PHONY : example-2-wertyu.c.s
+example-3-palindromes.cpp.s:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-3-palindromes.cpp.s
+.PHONY : example-3-palindromes.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... chapter3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... example-2-wertyu.obj
-	@echo ... example-2-wertyu.i
-	@echo ... example-2-wertyu.s
+	@echo ... example-3-palindromes.obj
+	@echo ... example-3-palindromes.i
+	@echo ... example-3-palindromes.s
 .PHONY : help
 
 

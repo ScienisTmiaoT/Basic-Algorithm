@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/chapter3.dir/example-2-wertyu.c.obj"
+  "CMakeFiles/chapter3.dir/example-3-palindromes.cpp.obj"
   "chapter3.pdb"
   "chapter3.exe"
   "chapter3.exe.manifest"
@@ -7,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C)
+foreach(lang CXX)
   include(CMakeFiles/chapter3.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()
