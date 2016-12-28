@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/chapter3.dir/snake-form-number.c.obj"
+  "CMakeFiles/chapter3.dir/example-2-wertyu.c.obj"
   "chapter3.pdb"
   "chapter3.exe"
   "chapter3.exe.manifest"

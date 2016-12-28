@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/snake-form-number.c" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/snake-form-number.c.obj"
+  "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/example-2-wertyu.c" "D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/cmake-build-debug/CMakeFiles/chapter3.dir/example-2-wertyu.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

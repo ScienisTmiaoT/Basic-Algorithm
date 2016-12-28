@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/snake-form-number.c">
+		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/example-2-wertyu.c">
 			<Option target="chapter3"/>
 		</Unit>
 		<Unit filename="D:/Marvin/Collection/Git/Github/Basic Algorithm/STAGE ONE/chapter3/CMakeLists.txt">

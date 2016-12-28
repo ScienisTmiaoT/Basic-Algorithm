@@ -122,32 +122,32 @@ chapter3/fast:
 	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/build
 .PHONY : chapter3/fast
 
-snake-form-number.obj: snake-form-number.c.obj
+example-2-wertyu.obj: example-2-wertyu.c.obj
 
-.PHONY : snake-form-number.obj
+.PHONY : example-2-wertyu.obj
 
 # target to build an object file
-snake-form-number.c.obj:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.obj
-.PHONY : snake-form-number.c.obj
+example-2-wertyu.c.obj:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.obj
+.PHONY : example-2-wertyu.c.obj
 
-snake-form-number.i: snake-form-number.c.i
+example-2-wertyu.i: example-2-wertyu.c.i
 
-.PHONY : snake-form-number.i
+.PHONY : example-2-wertyu.i
 
 # target to preprocess a source file
-snake-form-number.c.i:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.i
-.PHONY : snake-form-number.c.i
+example-2-wertyu.c.i:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.i
+.PHONY : example-2-wertyu.c.i
 
-snake-form-number.s: snake-form-number.c.s
+example-2-wertyu.s: example-2-wertyu.c.s
 
-.PHONY : snake-form-number.s
+.PHONY : example-2-wertyu.s
 
 # target to generate assembly for a file
-snake-form-number.c.s:
-	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/snake-form-number.c.s
-.PHONY : snake-form-number.c.s
+example-2-wertyu.c.s:
+	$(MAKE) -f CMakeFiles\chapter3.dir\build.make CMakeFiles/chapter3.dir/example-2-wertyu.c.s
+.PHONY : example-2-wertyu.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... chapter3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... snake-form-number.obj
-	@echo ... snake-form-number.i
-	@echo ... snake-form-number.s
+	@echo ... example-2-wertyu.obj
+	@echo ... example-2-wertyu.i
+	@echo ... example-2-wertyu.s
 .PHONY : help
 
 
